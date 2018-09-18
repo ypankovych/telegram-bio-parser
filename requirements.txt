@@ -1,0 +1,17 @@
+async-generator==1.10
+certifi==2018.8.24
+chardet==3.0.4
+et-xmlfile==1.0.1
+idna==2.7
+jdcal==1.4
+openpyxl==2.5.7
+pyaes==1.6.1
+pyasn1==0.4.4
+Pyrogram==0.7.5
+PySocks==1.6.8
+pyTelegramBotAPI==3.6.6
+requests==2.19.1
+rsa==4.0
+six==1.11.0
+Telethon==1.2
+urllib3==1.23
